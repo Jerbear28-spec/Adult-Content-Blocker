@@ -24,7 +24,7 @@ In a typical home network, when devices connect to the router, the router will a
 
 <p align="center">(picture)</p>
 
-<h3>Step 3: Restart Router (may not be necessary for all routers)</h3>
+<h3>Step 3: Restart Router (may not be necessary for all models)</h3>
 
 <p>description</p>
 
