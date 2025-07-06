@@ -1,7 +1,7 @@
 <h1 align="center">Blocking Innapropriate Content on Home Network via DNS Resolver</h1>
 
 <p align="center">
-(Picture with transparent background)
+
 </p>
 
 <h2>Overview</h2>
@@ -15,6 +15,8 @@ In a typical home network, when devices connect to the router, the router will a
 <h3>Step 1: Navigate to the router's DNS configuration settings</h3>
 
 <p>There are a few different ways a router's settings can be accessed. The most common way is to open any browser on any device that is connected to the router and navigate to the router's IP Address.</p>
+
+- Click [here](https://youtube.com) to learn how to access the settings on other routers.
 
 <p align="center">(picture)</p>
 
