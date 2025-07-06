@@ -1,4 +1,4 @@
-<h1 align="center">Manually configuring the DNS Resolver on a Home Network to Block Innapropriate Content</h1>
+<h1 align="center">Manually Configuring the DNS Resolver on a Home Network to Block Innapropriate Content</h1>
 
 <p align="center">
 (Picture with transparent background)
