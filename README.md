@@ -1,7 +1,8 @@
 <h1>Title</h1>
 
-
-
+<b align="center">
+(Picture with transparent background)
+</b>
 <h2>Project Overview</h2>
 
 <p>
