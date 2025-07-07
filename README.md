@@ -16,7 +16,7 @@ In a typical home network, when devices connect to the router, the router will a
 
 <p>There are a few different ways a router's settings can be accessed. The most common way is to open any browser on any device that is connected to the router and navigate to the router's IP Address.</p>
 
-- Click [here](https://youtube.com) to learn how to access the settings on other routers.
+- Click [here](https://support.opendns.com/hc/en-us/sections/206253667-Individual-Router-Configurations) to learn how to access the settings on other routers.
 
 <p align="center">(picture)</p>
 
