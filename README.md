@@ -38,7 +38,7 @@ There are a few different ways a router's settings can be accessed. The most com
 - 1.1.1.3
 - 1.0.0.3
 
-<h3>Step 3: Test the New Configuration<h/3>
+<h3>Step 3: Test the New Configuration</h3>
 
 <p>
   As long as the new settings have been applied, the new DNS resolver can now be tested. Adult content should now be innaccessible from any device connected to the router.
