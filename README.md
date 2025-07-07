@@ -1,7 +1,6 @@
 <p align="center">
 
 ![correctsizetransparent](https://github.com/user-attachments/assets/04e6d603-c329-4c36-8bdd-7b43a569ddd6)
-
 </p>
 
 <h1 align="center">Blocking Innapropriate Content on Home Network via DNS Resolver</h1>
@@ -22,7 +21,10 @@ There are a few different ways a router's settings can be accessed. The most com
   Some ISP's, like Spectrum for example, use an app to configure the router. Entering the IP address of the router will provide a link to download the app. 
 </p>
 
-<p align="center">(picture)</p>
+<p align="center">
+  
+![routerpage](https://github.com/user-attachments/assets/165d9c76-67eb-4952-92b0-91d7ada1c806)
+</p>
 
 <h3>Step 2: Change DNS Settings</h3>
 
