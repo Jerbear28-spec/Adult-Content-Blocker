@@ -16,9 +16,7 @@ In a typical home network, when devices connect to the router, the router will a
 
 <h3>Step 1: Navigate to the router's DNS configuration settings</h3>
 
-<p>There are a few different ways a router's settings can be accessed. The most common way is to open any browser on any device that is connected to the router and navigate to the router's IP Address. Doing so will bring up the router's web-based interface. Login information may be required to access the settings. Sometimes this information is listed on the back of the router. If not, use the link below to find the login information.</p>
-
-- Click [here](https://www.routerpasswords.com/) to learn how to access the DNS configuration settings on other routers.
+<p>There are a few different ways a router's settings can be accessed. The most common way is to open any browser on any device that is connected to the router and navigate to the router's IP Address. Doing so will bring up the router's web-based interface. Login information may be required to access the settings. Sometimes this information is listed on the back of the router. If not, use [this link](https://www.routerpasswords.com/) to find the login information.</p>
 
 <p align="center">(picture)</p>
 
