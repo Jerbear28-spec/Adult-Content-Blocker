@@ -1,8 +1,10 @@
-<h1 align="center">Blocking Innapropriate Content on Home Network via DNS Resolver</h1>
-
 <p align="center">
 
+![correctsizetransparent](https://github.com/user-attachments/assets/04e6d603-c329-4c36-8bdd-7b43a569ddd6)
+
 </p>
+
+<h1 align="center">Blocking Innapropriate Content on Home Network via DNS Resolver</h1>
 
 <h2>Overview</h2>
 
