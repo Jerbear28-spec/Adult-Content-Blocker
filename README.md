@@ -17,6 +17,11 @@ In a typical home network, when devices connect to the router, the router will a
 
 There are a few different ways a router's settings can be accessed. The most common way is to open any browser on any device that is connected to the router and navigate to the router's IP Address. Doing so will bring up the router's web-based interface. Login information may be required to access the settings. Sometimes this information is listed on the back of the router. If not, use [this link](https://www.routerpasswords.com/) to find the login information.
 
+<p align="center">
+
+  ![image](https://github.com/user-attachments/assets/0bf61f2a-99a1-4d8f-b945-3049c2ee86a8)
+</p>
+
 <p>
   Some ISP's, like Spectrum for example, use an app to configure the router. Entering the IP address of the router will provide a link to download the app. 
 </p>
@@ -35,4 +40,7 @@ There are a few different ways a router's settings can be accessed. The most com
 
 <h3>Step 3: Test the New Configuration<h/3>
 
-<p>As long as the new settings have been applied, the newDNS resolver can now be tested. Adult content should now be innaccessible from any device connected to the router.</p>
+<p>
+  As long as the new settings have been applied, the new DNS resolver can now be tested. Adult content should now be innaccessible from any device connected to the router.
+</p>
+
