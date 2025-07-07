@@ -9,7 +9,7 @@
 <h2>Overview</h2>
 
 <p>
-In a typical home network, when devices connect to the router, the router will automatically configure the DNS settings. The DNS Resolver is usually set to the router's IP address. The router will forward DNS queries to a DNS Server that is operated by the home network's Internet Service Provider. In this tutorial, the DNS Server of a home network router will be manually changed from the ISP's default server to an open-source Cloudflare DNS Server that will automatically filter innapropriate websites.
+In a typical home network, when devices connect to the router, the router will automatically configure the DNS settings. The DNS Resolver is usually set to the router's IP address, and the router will forward DNS queries to a DNS Server that is operated by the home network's Internet Service Provider. In this tutorial, the DNS Server of a home network router will be manually changed from the ISP's default server to an open-source Cloudflare DNS Server that will automatically filter innapropriate websites.
 </p>
 
 <h2>Step-by-step Implementation</h2>
