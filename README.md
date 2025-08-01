@@ -1,21 +1,20 @@
 <p align="center">
-
-![correctsizetransparent](https://github.com/user-attachments/assets/04e6d603-c329-4c36-8bdd-7b43a569ddd6)
+<img width="410" height="131" alt="80" src="https://github.com/user-attachments/assets/d1404f16-8e2a-4382-b5c0-15f7569a2fb6" />
 </p>
 
 <h1 align="center">Blocking Innapropriate Content on Home Network via DNS Resolver</h1>
 
-<h2 align="center">Overview</h2>
+<h2 align="center">Project Overview</h2>
 
 <p>
-In a typical home network, when devices connect to the router, the router will automatically configure the DNS settings. The DNS Resolver is usually set to the router's IP address, and the router will forward DNS queries to a DNS Server that is operated by the home network's Internet Service Provider. In this tutorial, the DNS server of a home network router will be manually changed from the ISP's default DNS server to an open-source Cloudflare DNS Server that will automatically filter innapropriate websites.
+In a typical home network, when devices connect to the router, the router will automatically configure the DNS settings. The DNS Resolver is usually set to the router's IP address, and the router will forward DNS queries to a DNS Server that is operated by the home network's Internet Service Provider. In this tutorial, the DNS server will be manually changed from the ISP's default DNS server to an open-source Cloudflare DNS Server. This DNS server will automatically filter innapropriate websites.
 </p>
 
 <h2>Step-by-step Implementation</h2>
 
 <h3>Step 1: Navigate to the Router's DNS Configuration Settings</h3>
 
-There are a few different ways a router's settings can be accessed. The most common way is to open any browser on any device that is connected to the router and navigate to the router's IP Address. Doing so will bring up the router's web-based interface. Login information may be required to access the settings. Sometimes this information is listed on the back of the router. If not, use [this link](https://www.routerpasswords.com/) to find the login information.
+There are a few different ways a router's settings can be accessed. The most common way is to open a browser on any device that is connected to the router and navigate to the router's IP Address. Doing so will bring up the router's web-based interface. Login information may be required to access the settings. Sometimes this information is listed on the back of the router. If not, use [this link](https://www.routerpasswords.com/) to find the login information.
 
 <p align="center">
 
